@@ -1,4 +1,4 @@
-xserver-xorg-video-amdgpu (21.0.0-3) nitrux; urgency=medium
+xserver-xorg-video-amdgpu (21.0.0+1+nitrux) nitrux; urgency=medium
 
   * patches: Added tearfree option to driver configuration.
 
